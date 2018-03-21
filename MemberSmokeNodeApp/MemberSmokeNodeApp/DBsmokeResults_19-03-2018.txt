@@ -1,0 +1,60 @@
+
+------------------------------------------------------
+D/b SERVER Conected: vegauat
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-20T00:15:02.459Z--------
+
+Active_MediCare_Count: 25338
+Active_MediCal_Count: 1242967
+Active_DualChoice_Count: 23820
+Total_KAISER_Members_Count: 117183
+Total_PARTD_Members_Count: 0
+LIS_Indicators_all_level_Members_Counts: 26542
+ESRD_Indicators_Members_Counts: 178
+Hospice_Indicators_Members_Counts: 624
+transplant_Indicators_Members_Counts: 9
+
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-20T00:15:41.602Z--------
+
+Active_MediCare_Count: 25344
+Active_MediCal_Count: 1242669
+Active_DualChoice_Count: 23808
+Total_KAISER_Members_Count: 106202
+Total_PARTD_Members_Count: 67880
+LIS_Indicators_all_level_Members_Counts: 25750
+ESRD_Indicators_Members_Counts: 166
+Hospice_Indicators_Members_Counts: 548
+transplant_Indicators_Members_Counts: 7
+
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-20T00:18:32.589Z--------
+
+Active_MediCare_Count: 25344
+Active_MediCal_Count: 1242669
+Active_DualChoice_Count: 23808
+Total_KAISER_Members_Count: 106202
+Total_PARTD_Members_Count: 67880
+LIS_Indicators_all_level_Members_Counts: 25750
+ESRD_Indicators_Members_Counts: 166
+Hospice_Indicators_Members_Counts: 548
+transplant_Indicators_Members_Counts: 7
+
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-20T00:41:32.055Z--------
+
+Active_MediCare_Count: 25344
+Active_MediCal_Count: 1242669
+Active_DualChoice_Count: 23808
+Total_KAISER_Members_Count: 106202
+Total_PARTD_Members_Count: 67880
+LIS_Indicators_all_level_Members_Counts: 25750
+ESRD_Indicators_Members_Counts: 166
+Hospice_Indicators_Members_Counts: 548
+transplant_Indicators_Members_Counts: 7

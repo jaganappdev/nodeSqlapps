@@ -1,0 +1,269 @@
+
+------------------------------
+D/b SERVER Conected: vegauat
+-------------------------------
+
+----Smoke Test ran at :  2018-03-18T23:44:01.243Z
+[
+  [
+    {
+      "Active_MediCare_Count": 25338
+    }
+  ],
+  [
+    {
+      "Active_MediCal_Count": 1242967
+    }
+  ],
+  [
+    {
+      "Active_DualChoice_Count": 23820
+    }
+  ]
+]
+[[{"Total_KAISER_Members_Count":117183}],[{"Total_PARTD_Members_Count":0}],[{"LIS_Indicators_all_level_Members_Counts":26542}],[{"ESRD_Indicators_Members_Counts":178}],[{"Hospice_Indicators_Members_Counts":624}],[{"transplant_Indicators_Members_Counts":9}]]
+------------------------------
+D/b SERVER Conected: vegauat
+-------------------------------
+
+----Smoke Test ran at :  2018-03-18T23:44:58.012Z----------
+
+[
+  [
+    {
+      "Active_MediCare_Count": 25338
+    }
+  ],
+  [
+    {
+      "Active_MediCal_Count": 1242967
+    }
+  ],
+  [
+    {
+      "Active_DualChoice_Count": 23820
+    }
+  ]
+]
+[[{"Total_KAISER_Members_Count":117183}],[{"Total_PARTD_Members_Count":0}],[{"LIS_Indicators_all_level_Members_Counts":26542}],[{"ESRD_Indicators_Members_Counts":178}],[{"Hospice_Indicators_Members_Counts":624}],[{"transplant_Indicators_Members_Counts":9}]]
+------------------------------------------------------
+D/b SERVER Conected: vegauat
+-------------------------------------------------
+
+-- Smoke Test ran at :2018-03-18T23:46:42.527Z----
+[
+  [
+    {
+      "Active_MediCare_Count": 25338
+    }
+  ],
+  [
+    {
+      "Active_MediCal_Count": 1242967
+    }
+  ],
+  [
+    {
+      "Active_DualChoice_Count": 23820
+    }
+  ]
+]
+[[{"Total_KAISER_Members_Count":117183}],[{"Total_PARTD_Members_Count":0}],[{"LIS_Indicators_all_level_Members_Counts":26542}],[{"ESRD_Indicators_Members_Counts":178}],[{"Hospice_Indicators_Members_Counts":624}],[{"transplant_Indicators_Members_Counts":9}]]
+------------------------------------------------------
+D/b SERVER Conected: vegauat
+-----------------------------------------------------------
+
+-- Smoke Test ran at :2018-03-18T23:47:37.429Z--------
+[
+  [
+    {
+      "Active_MediCare_Count": 25338
+    }
+  ],
+  [
+    {
+      "Active_MediCal_Count": 1242967
+    }
+  ],
+  [
+    {
+      "Active_DualChoice_Count": 23820
+    }
+  ]
+]
+[[{"Total_KAISER_Members_Count":117183}],[{"Total_PARTD_Members_Count":0}],[{"LIS_Indicators_all_level_Members_Counts":26542}],[{"ESRD_Indicators_Members_Counts":178}],[{"Hospice_Indicators_Members_Counts":624}],[{"transplant_Indicators_Members_Counts":9}]]
+------------------------------------------------------
+D/b SERVER Conected: vegauat
+-------------------------------------------------------
+
+-- Smoke Test ran at :2018-03-18T23:48:04.078Z--------
+[
+  [
+    {
+      "Active_MediCare_Count": 25338
+    }
+  ],
+  [
+    {
+      "Active_MediCal_Count": 1242967
+    }
+  ],
+  [
+    {
+      "Active_DualChoice_Count": 23820
+    }
+  ]
+]
+[[{"Total_KAISER_Members_Count":117183}],[{"Total_PARTD_Members_Count":0}],[{"LIS_Indicators_all_level_Members_Counts":26542}],[{"ESRD_Indicators_Members_Counts":178}],[{"Hospice_Indicators_Members_Counts":624}],[{"transplant_Indicators_Members_Counts":9}]]
+------------------------------------------------------
+D/b SERVER Conected: vegauat
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-18T23:48:57.329Z--------
+[
+  [
+    {
+      "Active_MediCare_Count": 25338
+    }
+  ],
+  [
+    {
+      "Active_MediCal_Count": 1242967
+    }
+  ],
+  [
+    {
+      "Active_DualChoice_Count": 23820
+    }
+  ]
+]
+[[{"Total_KAISER_Members_Count":117183}],[{"Total_PARTD_Members_Count":0}],[{"LIS_Indicators_all_level_Members_Counts":26542}],[{"ESRD_Indicators_Members_Counts":178}],[{"Hospice_Indicators_Members_Counts":624}],[{"transplant_Indicators_Members_Counts":9}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-18T23:52:13.709Z--------
+
+[
+  [
+    {
+      "Active_MediCare_Count": 25338
+    }
+  ],
+  [
+    {
+      "Active_MediCal_Count": 1242967
+    }
+  ],
+  [
+    {
+      "Active_DualChoice_Count": 23820
+    }
+  ]
+]
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:00:39.614Z--------
+
+[[{"Active_MediCare_Count":25338}],[{"Active_MediCal_Count":1242967}],[{"Active_DualChoice_Count":23820}]]
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:10:35.545Z--------
+
+[[{"Active_MediCare_Count":25338}],[{"Active_MediCal_Count":1242967}],[{"Active_DualChoice_Count":23820}]]
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:13:56.525Z--------
+
+undefined
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:14:29.693Z--------
+
+[{"Active_MediCare_Count":25338}]
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:14:46.643Z--------
+
+undefined
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:15:00.789Z--------
+
+undefined
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:29:24.658Z--------
+
+[[{"Active_MediCare_Count":25338}],[{"Active_MediCal_Count":1242967}],[{"Active_DualChoice_Count":23820}]]
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:35:59.353Z--------
+
+[[{"Active_MediCare_Count":25338}],[{"Active_MediCal_Count":1242967}],[{"Active_DualChoice_Count":23820}]]
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:36:21.440Z--------
+
+[[{"Active_MediCare_Count":25338}],[{"Active_MediCal_Count":1242967}],[{"Active_DualChoice_Count":23820}]]
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:43:20.123Z--------
+
+[[{"Active_MediCare_Count":25338}],[{"Active_MediCal_Count":1242967}],[{"Active_DualChoice_Count":23820}]]
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:45:30.938Z--------
+
+[[{"Active_MediCare_Count":25338}],[{"Active_MediCal_Count":1242967}],[{"Active_DualChoice_Count":23820}]]
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T00:46:02.107Z--------
+
+[[{"Active_MediCare_Count":25338}],[{"Active_MediCal_Count":1242967}],[{"Active_DualChoice_Count":23820}]]
+[[{"Total_KAISER_Members_Count":106202}],[{"Total_PARTD_Members_Count":67880}],[{"LIS_Indicators_all_level_Members_Counts":25750}],[{"ESRD_Indicators_Members_Counts":166}],[{"Hospice_Indicators_Members_Counts":548}],[{"transplant_Indicators_Members_Counts":7}]]
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T18:04:09.821Z--------
+
+
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T18:05:44.933Z--------
+
+
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T18:07:20.142Z--------
+
+
+------------------------------------------------------
+D/b SERVER Conected: vegadev
+-------------------------------------------------------
+-- Smoke Test ran at :2018-03-19T18:08:29.435Z--------
+

@@ -1,0 +1,12 @@
+Active_MediCare_Count: 25338
+Active_MediCal_Count: 1242967
+Active_DualChoice_Count: 23820
+Active_MediCare_Count: 25338
+Active_MediCal_Count: 1242967
+Active_DualChoice_Count: 23820
+Total_KAISER_Members_Count: 106202
+Total_PARTD_Members_Count: 67880
+LIS_Indicators_all_level_Members_Counts: 25750
+ESRD_Indicators_Members_Counts: 166
+Hospice_Indicators_Members_Counts: 548
+transplant_Indicators_Members_Counts: 7
